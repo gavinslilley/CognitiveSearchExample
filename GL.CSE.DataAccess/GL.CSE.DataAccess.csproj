@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GL.CSE.Interfaces\GL.CSE.Interfaces.csproj" />
+    <ProjectReference Include="..\GL.CSE.Models\GL.CSE.Models.csproj" />
+  </ItemGroup>
+
+</Project>
